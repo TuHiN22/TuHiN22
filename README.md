@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-FF4ECD?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 <a href="https://bloodice.site"><img src="https://img.shields.io/badge/Website-bloodice.site-0B1020?style=for-the-badge&logo=firefox&logoColor=22D3EE" alt="Website"/></a>
 <a href="https://twitter.com/Loanly_TuHiN"><img src="https://img.shields.io/badge/X-%40Loanly__TuHiN-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile"/></a>
-<a href="https://archiveprogram.github.com/"><img src="https://img.shields.io/badge/Arctic_Code_Vault-Contributor-22D3EE?style=for-the-badge" alt="🧊 Arctic Code Vault Contributor"/></a>
 
 </div>
 
@@ -27,10 +26,10 @@ $ status --verbose
 > 21 repos and counting
 
 $ currently_learning
-> # TODO — what are you leveling up on right now?
+> Node.js + TypeScript, Python, self-hosted infrastructure & Linux networking
 
 $ open_to
-> # TODO — what kind of collabs are you up for?
+> Open-source collabs around BDIX/network tooling, self-hosted bots & media tools, automation, and useful developer utilities
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,55:22D3EE,100:FF4ECD&height=3&section=header" width="100%" alt=""/>
 
@@ -52,12 +51,12 @@ $ open_to
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/TuHiN22/BDIX-OpenWRT-CUDY-WR3000-V1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuHiN22&repo=BDIX-OpenWRT-CUDY-WR3000-V1&title_color=FF4ECD&icon_color=22D3EE&text_color=C9D1D9&bg_color=0B1020&border_color=FF4ECD" alt="BDIX-OpenWRT-CUDY-WR3000-V1"/></a></td>
-<td width="50%"><a href="https://github.com/TuHiN22/TuHiNiPTV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuHiN22&repo=TuHiNiPTV&title_color=FF4ECD&icon_color=22D3EE&text_color=C9D1D9&bg_color=0B1020&border_color=FF4ECD" alt="TuHiNiPTV"/></a></td>
+<td width="50%"><a href="https://github.com/TuHiN22/BDIX-OpenWRT-CUDY-WR3000-V1"><img src="./profile/pin-bdix.svg" alt="BDIX-OpenWRT-CUDY-WR3000-V1"/></a></td>
+<td width="50%"><a href="https://github.com/TuHiN22/TuHiNiPTV"><img src="./profile/pin-tuhiniptv.svg" alt="TuHiNiPTV"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/TuHiN22/BloodiCE-Music-BOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuHiN22&repo=BloodiCE-Music-BOT&title_color=FF4ECD&icon_color=22D3EE&text_color=C9D1D9&bg_color=0B1020&border_color=FF4ECD" alt="BloodiCE-Music-BOT"/></a></td>
-<td width="50%"><a href="https://github.com/TuHiN22/MusicBotWebsite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuHiN22&repo=MusicBotWebsite&title_color=FF4ECD&icon_color=22D3EE&text_color=C9D1D9&bg_color=0B1020&border_color=FF4ECD" alt="MusicBotWebsite"/></a></td>
+<td width="50%"><a href="https://github.com/TuHiN22/BloodiCE-Music-BOT"><img src="./profile/pin-bloodice-music-bot.svg" alt="BloodiCE-Music-BOT"/></a></td>
+<td width="50%"><a href="https://github.com/TuHiN22/MusicBotWebsite"><img src="./profile/pin-musicbotwebsite.svg" alt="MusicBotWebsite"/></a></td>
 </tr>
 </table>
 
@@ -69,10 +68,10 @@ $ open_to
 
 <h2>📊 By The Numbers</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TuHiN22&show_icons=true&count_private=true&title_color=FF4ECD&icon_color=22D3EE&text_color=C9D1D9&bg_color=0B1020&border_color=FF4ECD" width="49%" alt="TuHiN22's GitHub stats"/>
+<img src="./profile/stats.svg" width="49%" alt="TuHiN22 GitHub stats"/>
 <img src="https://streak-stats.demolab.com/?user=TuHiN22&background=0B1020&ring=22D3EE&fire=FF4ECD&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=94A3B8&border=FF4ECD" width="49%" alt="GitHub streak stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuHiN22&layout=compact&langs_count=8&title_color=FF4ECD&icon_color=22D3EE&text_color=C9D1D9&bg_color=0B1020&border_color=FF4ECD" width="60%" alt="Most used languages"/>
+<img src="./profile/top-langs.svg" width="60%" alt="Most used languages"/>
 
 </div>
 
@@ -80,9 +79,11 @@ $ open_to
 
 <div align="center">
 
-<h2>🏆 Trophy Case</h2>
+<h2>🏆 Profile Highlights</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TuHiN22&theme=onedark&no-frame=true&row=1&column=7&margin-w=15" alt="Trophy case"/>
+<a href="https://github.com/TuHiN22"><img src="https://img.shields.io/github/followers/TuHiN22?style=for-the-badge&label=Followers&color=8B5CF6" alt="GitHub followers"/></a>
+<a href="https://github.com/TuHiN22?tab=repositories"><img src="https://img.shields.io/badge/Projects-21+-22D3EE?style=for-the-badge" alt="Projects"/></a>
+<a href="https://github.com/TuHiN22"><img src="https://img.shields.io/badge/Focus-BDIX%20%7C%20Bots%20%7C%20Automation-FF4ECD?style=for-the-badge" alt="Focus"/></a>
 
 <h2>🐍 Contribution Grid</h2>
 
