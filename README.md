@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,55:22D3EE,100:FF4ECD&height=220&section=header&text=TuHiN22&fontSize=68&fontColor=FFFFFF&fontAlignY=35&desc=Proxies%20.%20Bots%20.%20Players&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="TuHiN22 banner"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=W3LC0M3+to+my+C0d!ng+PORTAL;Experites+in+self-hosted+bots+%26+media+tools;Specializing+%26+Optimizing+BDIX;30+repos+and+counting" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=02F7EC&width=435&lines=W3LC0M3+to+my+C0d!ng+PORTAL;Experites+in+self-hosted+bots+%26+tools;Specializing+%26+Optimizing+BDIX;30+repos+and+counting" alt="Typing SVG" /></a>
 <br/>
 
 <a href="https://github.com/TuHiN22"><img src="https://komarev.com/ghpvc/?username=TuHiN22&label=Profile+Views&color=22D3EE&style=for-the-badge" alt="Profile views"/></a>
