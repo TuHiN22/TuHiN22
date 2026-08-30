@@ -18,12 +18,12 @@
 🩸 About
 
 $ whoami
-> TuHiN — developer based in Dhaka, Bangladesh
+> TuHiN — developer WELCOME to my Zone!
 
 $ status --verbose
-> Optimizing BDIX routes for faster local connectivity
-> Running self-hosted bots & media tools under the BloodiCE name
-> 21 repos and counting
+> Specializing & Optimizing BDIX routes for faster local connectivity
+> Experites in self-hosted bots & media tools
+> 30 repos and counting
 
 $ currently_learning
 > Node.js + TypeScript, Python, self-hosted infrastructure & Linux networking
