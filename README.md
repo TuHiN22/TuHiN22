@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,55:22D3EE,100:FF4ECD&height=220&section=header&text=TuHiN22&fontSize=68&fontColor=FFFFFF&fontAlignY=35&desc=Proxies%20.%20Bots%20.%20Players&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="TuHiN22 banner"/>
 
-<a href="https://github.com/TuHiN22"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&height=40&lines=WELCOME+to+my+C0d!ng%2C+PORTAL;Experites+in+self-hosted+bots+&+media+tools;Specializing+Optimizing%2C+bots+%26+IPTV+players;Turning+BDIX+into+a+superpower" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=W3LC0M3+to+my+C0d!ng+PORTAL;Experites+in+self-hosted+bots+%26+media+tools;Specializing+%26+Optimizing+BDIX;30+repos+and+counting" alt="Typing SVG" /></a>
 
 <br/>
 
